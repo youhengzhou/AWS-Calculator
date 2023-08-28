@@ -1,4 +1,4 @@
-"# AWS-Calculator"
+# AWS-Calculator
 
 A sample calculator app powered by AWS Lambda functions and AWS API gateways
 
